@@ -31,7 +31,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
           </div>
         </div>
         <h1 className="text-3xl font-bold text-white tracking-tight">
-          Energy<span className="text-[#10b981]">Optimize</span>
+          Ener<span className="text-[#10b981]">Optix</span>
         </h1>
       </div>
 
@@ -109,7 +109,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
       </div>
 
       <p className="mt-12 text-slate-600 text-[10px] font-bold uppercase tracking-[0.4em]">
-        Secured by EnergyOptimize Intelligence
+        Secured by EnerOptix Intelligence
       </p>
     </div>
   );
