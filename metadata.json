@@ -1,0 +1,5 @@
+{
+  "name": "EcoPulse Energy Analytics",
+  "description": "A sophisticated energy consumption dashboard that transforms raw HVAC, lighting, and appliance data into actionable insights and visual trends.",
+  "requestFramePermissions": []
+}
